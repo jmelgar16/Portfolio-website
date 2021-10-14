@@ -297,7 +297,7 @@ footer {
   width: 100%;
   max-width: 500px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-bottom: 28px;
 }
 
